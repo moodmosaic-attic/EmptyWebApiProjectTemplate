@@ -1,14 +1,11 @@
 # EmptyWebApiProjectTemplate
-This is a much emptier project template for ASP.NET Web API. The concepts are adapted from [ReallyEmptyMvcProjectTemplate](https://github.com/Haacked/ReallyEmptyMvc3ProjectTemplate).
+This is a much emptier project template for ASP.NET Web API. The concepts are adapted from [here](https://github.com/Haacked/ReallyEmptyMvc3ProjectTemplate).
 
 # Installation
 * __MAKE SURE ALL INSTANCES OF VISUAL STUDIO ARE CLOSED!__
 * Run the 'build.cmd' batch file to make the VSIX installer for the template. Then double-click the .vsix file to install.
 
-The batch file:
-
-* Creates the project package (a zip file).
-* Packages the template up in the Visual Studio installer extensible package (VSIX).
+> The batch file creates the project package (a zip file) and packages the template up in the Visual Studio installer extensible package (VSIX).
 
 # Credits
 * [Phil Haack](http://haacked.com/) initially published the [instructions](http://haacked.com/archive/2011/06/05/creating-a-custom-asp-net-mvc-project-template.aspx).
