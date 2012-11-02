@@ -12,7 +12,7 @@ The batch file:
 
 # DISCLAIMER
 I've tested this on my machine, but not yours. I make no guarantees that it'll work fine. See the license at the end. 
-This code is being made available to you under the [MIT license](http://www.opensource.org/licenses/mit-license.php)
+This code is being made available to you under the [MIT license](http://www.opensource.org/licenses/mit-license.php).
 
 # Credits
 * [Phil Haack](http://haacked.com/) initially published the [instructions](http://haacked.com/archive/2011/06/05/creating-a-custom-asp-net-mvc-project-template.aspx).
