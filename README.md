@@ -3,7 +3,7 @@ This is a much emptier project template for ASP.NET Web API. The concepts are ad
 
 # Installation
 * __MAKE SURE ALL INSTANCES OF VISUAL STUDIO ARE CLOSED!__
-* Run the 'build.cmd' batch file to make the VSIX installer for the template.  Then copy that file to your Visual Studio installation and double-click the .vsix file to install.
+* Run the 'build.cmd' batch file to make the VSIX installer for the template. Then double-click the .vsix file to install.
 
 The batch file:
 
