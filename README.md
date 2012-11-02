@@ -10,21 +10,8 @@ The batch file:
 * Creates the project package (a zip file).
 * Packages the template up in the Visual Studio installer extensible package (VSIX).
 
-# DISCLAIMER
-I've tested this on my machine, but not yours. I make no guarantees that it'll work fine. See the license at the end. 
-This code is being made available to you under the [MIT license](http://www.opensource.org/licenses/mit-license.php).
-
 # Credits
 * [Phil Haack](http://haacked.com/) initially published the [instructions](http://haacked.com/archive/2011/06/05/creating-a-custom-asp-net-mvc-project-template.aspx).
 * [Thomas Jaskula](http://www.codedistillers.com/) has [twitted](https://twitter.com/tjaskula/status/264083772666945536) about the empty Web API template.
 * [7-Zip](http://www.7-zip.org/) used to archive the template into a zip file. 
 * [Tim Heuer](http://timheuer.com/blog/) for the VSIX installer.
-
-# License
-Copyright (c) 2012 Nikos Baxevanis
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
