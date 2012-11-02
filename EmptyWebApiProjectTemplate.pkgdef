@@ -1,0 +1,11 @@
+[$RootKey$\MVC4\ProjectTemplates\EmptyWebApiProjectTemplate]
+"Title"="Empty Web API"
+"Description"="This is the most emptiest Web API project template made ever."
+
+[$RootKey$\MVC4\ProjectTemplates\EmptyWebApiProjectTemplate\C#]
+
+[$RootKey$\MVC4\ProjectTemplates\EmptyWebApiProjectTemplate\C#\Razor]
+"Path"="CSharp\\Web"
+"SupportsHTML5"=dword:00000000
+"SupportsUnitTests"=dword:00000000
+"Template"="EmptyWebApiProjectTemplate.zip"
