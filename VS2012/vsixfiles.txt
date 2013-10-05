@@ -1,0 +1,5 @@
+ProjectTemplates\CSharp\Web\EmptyWebApiProjectTemplate.zip
+extension.vsixmanifest
+license.txt
+EmptyWebApiProjectTemplate.pkgdef
+[Content_Types].xml
