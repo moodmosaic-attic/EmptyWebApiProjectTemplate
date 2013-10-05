@@ -41,7 +41,6 @@
     </WizardExtension>
     <WizardData>
         <packages repository="registry" keyName="AspNetMvc4VS2010" isPreunzipped="true">
-          <package id="Newtonsoft.Json" version="4.5.6" skipAssemblyReferences="true" />
           <package id="Microsoft.Net.Http" version="2.0.20710.0" skipAssemblyReferences="true" />
           <package id="Microsoft.AspNet.WebApi.Client" version="4.0.20710.0" skipAssemblyReferences="true" />
           <package id="Microsoft.AspNet.WebApi.Core" version="4.0.20710.0" skipAssemblyReferences="true" />

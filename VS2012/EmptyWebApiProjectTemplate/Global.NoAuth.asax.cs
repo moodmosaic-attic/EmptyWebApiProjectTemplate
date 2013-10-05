@@ -1,6 +1,5 @@
 ﻿using System.Web;
 using System.Web.Http;
-using System.Web.Mvc;
 
 namespace $safeprojectname$
 {
@@ -11,7 +10,6 @@ namespace $safeprojectname$
     {
         protected void Application_Start()
         {
-            AreaRegistration.RegisterAllAreas();
         }
     }
 }
